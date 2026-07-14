@@ -60,4 +60,4 @@ Achieved an optimal balance between precision and recall, enabling the identific
 This project highlighted how machine learning can bring real business value in the telecom domain. I'm excited to explore deeper techniques like survival analysis and customer lifetime value modeling in the future.
 
 
-This repo is created as a part of Kaggle competition 
+This repo is created as a part of Kaggle competition, use this with caution. 
