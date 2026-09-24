@@ -1,0 +1,16 @@
+# Raw competition data (large, regenerable from original_work/)
+data/raw/*.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
